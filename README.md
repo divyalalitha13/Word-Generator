@@ -1,6 +1,6 @@
 # WordGenerator
 
-[!Screenshot](Screenshot.png)
+![Screenshot](Screenshot.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0.
 
